@@ -25,6 +25,9 @@ export default class Header extends Component {
                                 <Button component={Link} to="/profissoes" color="inherit">
                                     Profissões
                                 </Button>
+                                <Button component={Link} to="/guerra" color="inherit">
+                                    Facções
+                                </Button>
                             </Grid>
                         </Grid>
                     </Toolbar>
