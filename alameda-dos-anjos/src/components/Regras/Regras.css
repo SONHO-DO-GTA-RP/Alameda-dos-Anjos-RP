@@ -1,0 +1,15 @@
+.paper {
+    padding: 3px 2px;
+}
+
+.container {
+    margin-top: 2vh;
+}
+
+.hover:hover {
+    background-color: rgba(216, 214, 243, 0.63);
+}
+
+.header {
+    background-color:rgba(216, 214, 243, 0.63);
+}
