@@ -1,0 +1,21 @@
+.imgs {
+    width: 720px;
+    height: 480px;
+}
+
+.card {
+    max-width: 880px;
+}
+
+.media {
+    width: 880px;
+    height: 495px;
+}
+
+.pfont {
+    font-size: 24px;
+}
+
+.bold {
+    font-weight: 700;
+}
